@@ -1,16 +1,12 @@
-# React + Vite
+This is a React application that shows the national holidays for the current year, for a given country.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The main screen should show:
 
-Currently, two official plugins are available:
+* a dropdown with a list of countries
+* a list of public holidays for the selected country
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+and should look like this
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="720" height="480" alt="public-holidays-preview" src="https://github.com/user-attachments/assets/ed5ff6a0-8972-4805-89d6-a05056883bdd" />
